@@ -30,7 +30,7 @@ from utilities.random_data_util import RandomDataUtil
 from playwright.sync_api import expect
 
 
-@pytest.mark.sanity
+#@pytest.mark.sanity
 @pytest.mark.regression
 def test_user_registration(page): # page is from the conftest file-user defined, not a playwright fixture
     home_page=HomePage(page) # call the object from HomePage class

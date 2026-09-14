@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5576","test_invalid_user_login","tests","2026-09-07","passed","2026-09-07","","test_login","",""
+"","2859","test_user_registration","tests","2026-09-07","passed","2026-09-07","","test_user_registration","",""
+"","8202","test_valid_user_login","tests","2026-09-07","failed","2026-09-07","","test_login","",""
